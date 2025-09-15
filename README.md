@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ibrahim Mert Surme  
+# 👋 Hi, I'm İbrahim Mert Sürme!  
 
 🎓 Computer Engineering Student @ **Istanbul Technical University (2022 – 2027)**  
 💻 Passionate about **Full-Stack Development, AI, and Systems Programming**  
@@ -22,4 +22,4 @@
 
 ## 🌐 Find me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-IMSURME-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-imsurme.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-IMSURME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imSurme)
+[![Portfolio](https://img.shields.io/badge/Portfolio-imSurme-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-imsurme.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-imSurme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imSurme)
